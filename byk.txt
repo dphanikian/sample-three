@@ -4,3 +4,8 @@ welcome to the byk world
 bullet
 activa
 boxer
+
+
+blue
+silver
+black
